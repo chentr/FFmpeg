@@ -33,3 +33,14 @@
 /lcov/
 /src
 /mapfile
+
+# ignore *.out
+*.out
+*.files
+*.in
+*.po
+*.swp
+*.vp
+
+video/*
+*.h264
